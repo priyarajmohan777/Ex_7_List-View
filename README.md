@@ -1,4 +1,7 @@
-## Ex.No:7 Develop an android application to display the programming languages with toast message using list view in android studio.
+# Ex.No:7 Develop an android application to display the programming languages with toast message using list view in android studio.
+
+### DATE:
+
 ## AIM:
 To create and develop the application to display the place name with image using list view in android studio
 
@@ -21,13 +24,13 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
 ```
+/*
 Program to print the list of item.
 Developed by: Priya R
 Registeration Number :212222040124
-```
 */
+```
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
